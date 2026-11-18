@@ -6,6 +6,11 @@ This project focuses on analyzing Human Resource (HR) data using Microsoft Power
 
 An interactive HR Analytics Dashboard was developed to help HR professionals monitor key workforce metrics and explore factors associated with employee attrition.
 
+
+## 🖼️ Dashboard Preview
+
+![HR Analytics Dashboard](SS.png)
+
 ## 🎯 Project Objectives
 
 - Analyze overall employee attrition and retention.
@@ -21,7 +26,6 @@ An interactive HR Analytics Dashboard was developed to help HR professionals mon
 - Power Query – Data Cleaning and Transformation
 - DAX – Calculated Measures and KPI Development
 - Data Visualization
-- Data Modeling
 
 ## 📊 Key Performance Indicators (KPIs)
 
@@ -75,15 +79,7 @@ DAX was used to create measures for key workforce KPIs and dashboard analysis, i
 - How does attrition vary according to work experience?
 - Which departments have the highest employee population?
 
-## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](HR_Dashboard.png)
-
-## 📂 Project Files
-
-- `HR_Analytics_Dashboard.pbix` – Power BI dashboard file.
-- `HR_Dashboard.png` – Dashboard screenshot.
-- `README.md` – Project documentation.
 
 ## 🚀 Conclusion
 
